@@ -2,7 +2,7 @@
 
 ### `Objetivo`
 
-App web para gerenciar finanças através do controle das entradas e saídas.
+App web para gerenciar finanças através do controle das entradas e saídas de recursos.
 
 ### `Como iniciar?`
 
