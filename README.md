@@ -6,7 +6,7 @@ App web para gerenciar finanças através do controle das entradas e saídas de 
 
 ### `Como iniciar?`
 
-Execute o arquivo HTML utilizando o navegador e a aplicação irá rodar.
+Execute o arquivo HTML dentro do diretório "*Project*" utilizando o navegador e a aplicação irá rodar.
 
 ### `Como usar?`
 
