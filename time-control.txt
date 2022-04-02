@@ -1,6 +1,6 @@
 
 --------------------------------------
--------- CONTROLE DE TEMPO! ----------
+----------- TIME CONTROL -------------
 --------------------------------------
 
 [X] Vídeo 01 - Done - Link: https://www.youtube.com/watch?v=NlDr6JX3VvA
