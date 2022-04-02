@@ -4,6 +4,10 @@
 
 App web para gerenciar finanças através do controle das entradas e saídas de recursos.
 
+### `Demonstração`
+
+![GIF](https://media1.giphy.com/media/9x8XoM7tWUqnjAF3yt/giphy.gif)
+
 ### `Como iniciar?`
 
 Execute o arquivo HTML utilizando o navegador e a aplicação irá rodar.
