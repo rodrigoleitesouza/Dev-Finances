@@ -10,7 +10,7 @@ Execute o arquivo HTML dentro do diretório "*Project*" utilizando o navegador e
 
 ### `Como usar?`
 
-Clique em "+ Nova Transação", preencha os campos e depois clique em "Salvar".
+Clique em "*+ Nova Transação*", preencha os campos e depois clique em "*Salvar*".
 
 ### `Demonstração`
 
