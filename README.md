@@ -14,4 +14,4 @@ Clique em "+ Nova Transação", preencha os campos e depois clique em "Salvar".
 
 ------------------------------------------------------------------
 
-Qualquer dúvida entre em contato por <a href="mailto:rodrigoleitesouza@gmail.com?">rodrigoleitesouza@gmail.com</a>
+Qualquer dúvida entre em contato por <a href="mailto:rodrigoleitesouzadev@gmail.com?">rodrigoleitesouzadev@gmail.com</a>
