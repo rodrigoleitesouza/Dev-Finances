@@ -14,7 +14,7 @@ Clique em "*+ Nova Transação*", preencha os campos e depois clique em "*Salvar
 
 ### `Demonstração`
 
-![GIF](https://media1.giphy.com/media/9x8XoM7tWUqnjAF3yt/giphy.gif)
+![GIF](https://i.imgur.com/foRwrQq.gif)
 
 ------------------------------------------------------------------
 
